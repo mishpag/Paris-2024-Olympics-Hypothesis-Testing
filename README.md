@@ -2,7 +2,10 @@
 
 ## Presentation
 ### 🎉 Explore the Insights!
-[**View the Project Presentation**](https://docs.google.com/presentation/d/1wvB0kIfQJ5VTS-91VrnE3hTLmv_5iBqPXV1j8x7nuAs/edit?usp=sharing)
+**📊 View the project dashboard on Tableau Public:** [Paris 2024 Olympics: Hypothesis Testing Dashboard](https://public.tableau.com/views/Paris-2024-Olympics-Hypothesis-Testing-events-vs-medals/Olympicseventsanalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+**📽️ Access the project presentation:** [Paris 2024 Olympics PowerPoint](https://docs.google.com/presentation/d/1wvB0kIfQJ5VTS-91VrnE3hTLmv_5iBqPXV1j8x7nuAs/edit?usp=sharing)
+
 
 Dive into the analysis of the **Paris 2024 Olympics** and discover how event participation influences medal success. Uncover key findings, visualizations, and strategic recommendations that can shape future Olympic strategies!
 
