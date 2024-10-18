@@ -6,9 +6,6 @@
 
 **📽️ Access the project presentation:** [Paris 2024 Olympics PowerPoint](https://docs.google.com/presentation/d/1wvB0kIfQJ5VTS-91VrnE3hTLmv_5iBqPXV1j8x7nuAs/edit?usp=sharing)
 
-
-Dive into the analysis of the **Paris 2024 Olympics** and discover how event participation influences medal success. Uncover key findings, visualizations, and strategic recommendations that can shape future Olympic strategies!
-
 ## Background and Overview
 The Paris 2024 Olympics presents a unique opportunity to analyze the relationship between event participation and medal counts across competing countries. The primary objective of this project was to test the hypothesis that increased participation in events correlates with higher medal counts. Understanding this relationship can provide valuable insights for countries aiming to optimize their Olympic strategies and improve competitive performance.
 
