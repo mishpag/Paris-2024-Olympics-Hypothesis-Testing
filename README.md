@@ -2,7 +2,7 @@
 
 ## Presentation
 ### 🎉 Explore the Insights!
-**📽️ Access the project presentation:** [Paris 2024 Olympics PowerPoint](https://docs.google.com/presentation/d/1wvB0kIfQJ5VTS-91VrnE3hTLmv_5iBqPXV1j8x7nuAs/edit?usp=sharing)
+**📽️ Access the Project Presentation PPT:** [Paris 2024 Olympics PowerPoint](https://docs.google.com/presentation/d/1wvB0kIfQJ5VTS-91VrnE3hTLmv_5iBqPXV1j8x7nuAs/edit?usp=sharing)
 
 **📊 View the project dashboard on Tableau Public:** [Paris 2024 Olympics: Hypothesis Testing Dashboard](https://public.tableau.com/views/Paris-2024-Olympics-Hypothesis-Testing-events-vs-medals/Olympicseventsanalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
